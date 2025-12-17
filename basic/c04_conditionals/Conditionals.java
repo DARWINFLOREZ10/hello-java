@@ -1,10 +1,5 @@
 package basic.c04_conditionals;
 
-/*
-Clase 35 - Condicionales
-Vídeo: https://youtu.be/JOAqpdM36wI?t=9908
-*/
-
 public class Conditionals {
 
     public static void main(String[] args) {
