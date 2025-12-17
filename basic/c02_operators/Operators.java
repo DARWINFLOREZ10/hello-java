@@ -4,11 +4,6 @@ public class Operators {
 
     public static void main(String[] args) {
 
-        /*
-        Clase 18 - Operadores aritméticos
-        Vídeo: https://youtu.be/JOAqpdM36wI?t=6803
-        */
-
         // Aritméticos
 
         var a = 5;
