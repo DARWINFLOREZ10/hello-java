@@ -1,10 +1,5 @@
 package basic.c01_beginner;
 
-/*
-Clase 15 - Variables y constantes
-Vídeo: https://youtu.be/JOAqpdM36wI?t=5294
-*/
-
 public class VariablesAndConstants {
 
     public static void main(String[] args) {
