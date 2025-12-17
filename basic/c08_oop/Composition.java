@@ -1,10 +1,5 @@
 package basic.c08_oop;
 
-/*
-Clase 67 - Composición
-Vídeo: https://youtu.be/JOAqpdM36wI?t=26963
-*/
-
 public class Composition {
 
     public static void main(String[] args) {
