@@ -1,10 +1,5 @@
 package basic.c04_conditionals;
 
-/*
-Clase 38 - Ejercicios: Condicionales
-Vídeo: https://youtu.be/JOAqpdM36wI?t=11021
-*/
-
 public class ConditionalsExercises {
 
     public static void main(String[] args) {
