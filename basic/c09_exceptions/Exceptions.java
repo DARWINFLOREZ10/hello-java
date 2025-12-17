@@ -1,10 +1,5 @@
 package basic.c09_exceptions;
 
-/*
-Clase 69 - Excepciones
-Vídeo: https://youtu.be/JOAqpdM36wI?t=27930
-*/
-
 public class Exceptions {
 
     public static void main(String[] args) {
