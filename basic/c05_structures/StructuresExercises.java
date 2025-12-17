@@ -1,10 +1,5 @@
 package basic.c05_structures;
 
-/*
-Clase 44 - Ejercicios: Estructuras
-Vídeo: https://youtu.be/JOAqpdM36wI?t=15680
-*/
-
 public class StructuresExercises {
 
     public static void main(String[] args) {
