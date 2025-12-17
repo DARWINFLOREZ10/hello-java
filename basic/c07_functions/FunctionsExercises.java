@@ -1,10 +1,5 @@
 package basic.c07_functions;
 
-/*
-Clase 55 - Ejercicios: Funciones
-Vídeo: https://youtu.be/JOAqpdM36wI?t=19521
-*/
-
 public class FunctionsExercises {
 
     public static void main(String[] args) {
