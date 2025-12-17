@@ -1,10 +1,5 @@
 package basic.c08_oop;
 
-/*
-Clase 64 - Ejercicios: Polimorfismo
-Vídeo: https://youtu.be/JOAqpdM36wI?t=25474
-*/
-
 public class PolymorphismExercises {
 
     public static void main(String[] args) {
