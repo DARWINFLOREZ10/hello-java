@@ -1,10 +1,5 @@
 package basic.c05_structures;
 
-/*
-Clase 42 - Sets
-Vídeo: https://youtu.be/JOAqpdM36wI?t=13502
-*/
-
 import java.util.HashSet;
 
 public class Sets {
