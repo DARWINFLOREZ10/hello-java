@@ -1,10 +1,5 @@
 package basic.c00_helloworld;
 
-/*
-Clase 14 - Ejercicios: Primeros pasos
-Vídeo: https://youtu.be/JOAqpdM36wI?t=5108
-*/
-
 public class HelloWorldExercises {
 
     public static void main(String[] args) {
