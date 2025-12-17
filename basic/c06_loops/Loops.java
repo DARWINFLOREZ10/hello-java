@@ -1,10 +1,5 @@
 package basic.c06_loops;
 
-/*
-Clase 45 - Bucles
-Vídeo: https://youtu.be/JOAqpdM36wI?t=15862
-*/
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
