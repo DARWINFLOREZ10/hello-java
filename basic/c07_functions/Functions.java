@@ -7,11 +7,6 @@ public class Functions {
 
     public static void main(String[] args) {
 
-        /*
-        Clase 51 - Funciones
-        Vídeo: https://youtu.be/JOAqpdM36wI?t=186100
-        */
-
         // Funciones
 
         for (int index = 0; index < 5; index++) {
@@ -34,21 +29,11 @@ public class Functions {
         System.out.println(sendEmailWithState(""));
     }
 
-    /*
-    Clase 52 - Funciones sin parámetros ni retorno
-    Vídeo: https://youtu.be/JOAqpdM36wI?t=18394
-    */
-
     // Función sin parámetros ni retorno
 
     public static void sendEmail() {
         System.out.println("Se envía el email");
     }
-
-    /*
-    Clase 53 - Funciones con parámetros / Sobrecarga
-    Vídeo: https://youtu.be/JOAqpdM36wI?t=18827
-    */
 
     // Función con parámetros
 
@@ -67,11 +52,6 @@ public class Functions {
             sendEmailToUser(email);
         }
     }
-
-    /*
-    Clase 54 - Funciones con retorno
-    Vídeo: https://youtu.be/JOAqpdM36wI?t=19027
-    */
 
     // Función con retorno
 
