@@ -3,12 +3,7 @@ package basic.c03_strings;
 public class Strings {
 
     public static void main(String[] args) {
-
-        /*
-        Clase 24 - Strings
-        Vídeo: https://youtu.be/JOAqpdM36wI?t=8140
-        */
-
+        
         // Declaración
 
         String name = "Brais";
