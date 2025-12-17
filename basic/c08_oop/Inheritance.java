@@ -1,10 +1,5 @@
 package basic.c08_oop;
 
-/*
-Clase 61 - Herencia
-Vídeo: https://youtu.be/JOAqpdM36wI?t=23334
-*/
-
 public class Inheritance {
 
     public static void main(String[] args) {
