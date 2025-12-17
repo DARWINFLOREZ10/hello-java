@@ -1,10 +1,5 @@
 package basic.c08_oop;
 
-/*
-Clase 57 - Clases y objetos
-Vídeo: https://youtu.be/JOAqpdM36wI?t=19902
-*/
-
 public class Person {
 
     // Atributos
