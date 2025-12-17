@@ -1,10 +1,5 @@
 package basic.c08_oop;
 
-/*
-Clase 65 - Abstracción
-Vídeo: https://youtu.be/JOAqpdM36wI?t=25550
-*/
-
 public class Abstraction {
 
     public static void main(String[] args) {
