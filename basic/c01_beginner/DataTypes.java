@@ -1,10 +1,5 @@
 package basic.c01_beginner;
 
-/*
-Clase 16 - Tipos de datos primitivos
-Vídeo: https://youtu.be/JOAqpdM36wI?t=6211
-*/
-
 public class DataTypes {
 
     public static void main(String[] args) {
