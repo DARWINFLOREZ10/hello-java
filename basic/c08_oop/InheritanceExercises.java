@@ -1,10 +1,5 @@
 package basic.c08_oop;
 
-/*
-Clase 62 - Ejercicios: Herencia
-Vídeo: https://youtu.be/JOAqpdM36wI?t=24373
-*/
-
 public class InheritanceExercises {
 
     public static void main(String[] args) {
