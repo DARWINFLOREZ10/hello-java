@@ -1,10 +1,5 @@
 package basic.c03_strings;
 
-/*
-Clase 34 - Ejercicios: Strings
-Vídeo: https://youtu.be/JOAqpdM36wI?t=9838
-*/
-
 public class StringsExercises {
 
     public static void main(String[] args) {
