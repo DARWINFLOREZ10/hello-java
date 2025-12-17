@@ -1,10 +1,5 @@
 package basic.c10_extras;
 
-/*
-Clase 75 - Ejercicios: Extras
-Vídeo: https://youtu.be/JOAqpdM36wI?t=31583
-*/
-
 public class ExtrasExercises {
 
     public static void main(String[] args) {
