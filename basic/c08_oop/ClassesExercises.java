@@ -1,10 +1,5 @@
 package basic.c08_oop;
 
-/*
-Clase 58 - Ejercicios: Clases y objetos
-Vídeo: https://youtu.be/JOAqpdM36wI?t=21434
-*/
-
 public class ClassesExercises {
 
     public static void main(String[] args) {
