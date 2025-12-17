@@ -1,10 +1,5 @@
 package basic.c01_beginner;
 
-/*
-Clase 17 - Ejercicios: Variables y constantes
-Vídeo: https://youtu.be/JOAqpdM36wI?t=6732
-*/
-
 public class BeginnerExercises {
 
     public static void main(String[] args) {
