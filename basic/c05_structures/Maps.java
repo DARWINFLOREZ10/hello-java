@@ -1,10 +1,5 @@
 package basic.c05_structures;
 
-/*
-Clase 43 - Maps
-Vídeo: https://youtu.be/JOAqpdM36wI?t=14574
-*/
-
 import java.util.HashMap;
 
 public class Maps {
