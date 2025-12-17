@@ -1,10 +1,5 @@
 package basic.c10_extras;
 
-/*
-Clase 74 - Extras
-Vídeo: https://youtu.be/JOAqpdM36wI?t=30409
-*/
-
 import basic.c08_oop.Classes;
 import basic.c08_oop.Person;
 
