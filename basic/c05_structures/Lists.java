@@ -1,10 +1,5 @@
 package basic.c05_structures;
 
-/*
-Clase 41 - Listas
-Vídeo: https://youtu.be/JOAqpdM36wI?t=12233
-*/
-
 import java.util.ArrayList;
 
 public class Lists {
