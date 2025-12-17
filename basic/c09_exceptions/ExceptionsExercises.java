@@ -1,10 +1,5 @@
 package basic.c09_exceptions;
 
-/*
-Clase 72 - Ejercicios: Excepciones
-Vídeo: https://youtu.be/JOAqpdM36wI?t=29721
-*/
-
 public class ExceptionsExercises {
 
     public static void main(String[] args) {
