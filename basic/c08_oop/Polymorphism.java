@@ -1,10 +1,5 @@
 package basic.c08_oop;
 
-/*
-Clase 63 - Polimorfismo
-Vídeo: https://youtu.be/JOAqpdM36wI?t=24505
-*/
-
 public class Polymorphism {
 
     public static void main(String[] args) {
