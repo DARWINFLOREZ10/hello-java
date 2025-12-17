@@ -1,10 +1,5 @@
 package basic.c09_exceptions;
 
-/*
-Clase 70 - Lanzamiento de excepciones
-Vídeo: https://youtu.be/JOAqpdM36wI?t=28611
-*/
-
 public class ThrowExample {
 
     public void checkAge(int age) throws IllegalArgumentException {
