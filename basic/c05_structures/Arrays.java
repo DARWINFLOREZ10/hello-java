@@ -1,10 +1,5 @@
 package basic.c05_structures;
 
-/*
-Clase 40 - Arrays
-Vídeo: https://youtu.be/JOAqpdM36wI?t=11194
-*/
-
 public class Arrays {
 
     public static void main(String[] args) {
