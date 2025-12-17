@@ -1,10 +1,5 @@
 package basic.c06_loops;
 
-/*
-Clase 50 - Ejercicios: Bucles
-Vídeo: https://youtu.be/JOAqpdM36wI?t=17993
-*/
-
 public class LoopsExercises {
 
     public static void main(String[] args) {
